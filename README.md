@@ -1,0 +1,2 @@
+# osm_hiroshima2018kurashiki0709
+LANDSAT8 PanSherpen
