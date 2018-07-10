@@ -1,0 +1,13 @@
+{
+  "name": "OAM_hiroshima2018kurashiki0709",
+  "version": "1.1.0",
+  "description": "",
+  "attribution": "Rendered with <a href=\"https://www.maptiler.com/\">MapTiler</a>",
+  "type": "overlay",
+  "format": "png",
+  "minzoom": "8",
+  "maxzoom": "13",
+  "scale": "1.000000",
+  "bounds": [133.17156401, 34.25650111, 134.23379705, 34.87075862],
+  "profile": "mercator"
+}
